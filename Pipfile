@@ -7,5 +7,9 @@ name = "pypi"
 django = "==4.0"
 pillow = "*"
 django-hitcount = "*"
+django-modeltranslation = "*"
+python-gettext = "*"
+python-decouple = "*"
+whitenoise = "*"
 
 [dev-packages]
